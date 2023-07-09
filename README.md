@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/youssef303m" target="blank"><img src="https://img.shields.io/twitter/follow/youssef303m?logo=twitter&style=for-the-badge" alt="youssef303m" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [youssef.website](https://www.youssef.website/)
 
