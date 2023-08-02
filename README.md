@@ -26,6 +26,7 @@
   [![Tailwind Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
   ### Javascript Frameworks/Libraries
   [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
+  [![Next Badge](https://img.shields.io/badge/-Next.js-FFFFFF?style=for-the-badge&labelColor=black&logo=next.js&logoColor=FFFFFF)](#)
   [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)
   ### Additional Skills
   [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
