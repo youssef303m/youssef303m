@@ -8,11 +8,8 @@
 - 📫 Reach me at **youssef303m@gmail.com**
 
 ## Connect with me
-<a href="https://linkedin.com/in/youssef303m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef303m" height="30" width="40" /></a>
-<a href="https://twitter.com/youssef303m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youssef303m" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/xjose303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xjose303" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22091767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22091767" height="30" width="40" /></a>
-<a href="https://medium.com/@youssef303m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@youssef303m" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/youssef303m" target="blank"><img align="center" src="./linkedin-logo.png" alt="youssef303m" height="40" width="40" /></a>
+<a href="https://twitter.com/youssef303m" target="blank"><img align="center" src="./twitter-logo.png" alt="youssef303m" height="30" width="40" /></a>
 
 ## Languages and Tools
   ### Languages
