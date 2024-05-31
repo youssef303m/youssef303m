@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **[Node.js](https://nodejs.org/en)**
 
-- 👨‍💻 All of my projects are available at [youssef.website](https://www.youssef.website/)
-
 - 📫 Reach me at **youssef303m@gmail.com**
 
 ## Connect with me
