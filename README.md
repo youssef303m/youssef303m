@@ -7,7 +7,6 @@
 
 ## Connect with me
 <a href="https://linkedin.com/in/youssef303m" target="blank"><img align="center" src="./linkedin-logo.png" alt="youssef303m" height="40" width="40" /></a>
-<a href="https://twitter.com/youssef303m" target="blank"><img align="center" src="./x-logo.png" alt="youssef303m" height="45" width="45" /></a>
 
 ## Languages and Tools
   ### Languages
