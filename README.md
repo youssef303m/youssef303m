@@ -31,14 +31,12 @@
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
 [![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
-[![RESTful APIs Badge](https://img.shields.io/badge/-RESTful_APIs-FF6F00?style=for-the-badge&labelColor=black&logo=api&logoColor=FF6F00)](#)
 
 ### Additional Skills
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=181717)](#)
 [![Figma Badge](https://img.shields.io/badge/-Figma-FF0080?style=for-the-badge&labelColor=black&logo=figma&logoColor=FF0080)](#)
 [![Photoshop Badge](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=for-the-badge&labelColor=black&logo=adobe-photoshop&logoColor=31A8FF)](#)
-[![Responsive Design Badge](https://img.shields.io/badge/-Responsive_Design-4A90E2?style=for-the-badge&labelColor=black&logo=responsive&logoColor=4A90E2)](#)
 
 ---
 
