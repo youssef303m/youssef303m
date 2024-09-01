@@ -5,8 +5,18 @@
 
 - 📫 Reach me at **youssef303m@gmail.com**
 
-## Connect with me
-<a href="https://linkedin.com/in/youssef303m" target="blank"><img align="center" src="./linkedin-logo.png" alt="youssef303m" height="40" width="40" /></a>
+## Selected Projects
+
+**BOB Premium TV App**  
+*September 2024*  
+*Working in:* [Mimocodes](https://mimocodes.com/)
+### Summary
+This project involved a complete redesign of the BOB Premium TV App to enhance user experience and functionality.
+### What I did
+- **Frontend Redesign:** Revamped the entire frontend of the BOB Premium TV App in collaboration with a UI/UX designer.
+- **Feature Enhancements:** Updated functionalities and added new features based on project needs and the latest vision.
+- **Responsive Design:** Ensured the app works well on all TV sizes by testing it on various real TVs from different brands and sizes.
+
 
 ## Languages and Tools
 
