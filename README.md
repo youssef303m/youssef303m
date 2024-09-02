@@ -36,7 +36,6 @@
 [![Figma Badge](https://img.shields.io/badge/-Figma-FF0080?style=for-the-badge&labelColor=black&logo=figma&logoColor=FF0080)](#)
 [![Photoshop Badge](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=for-the-badge&labelColor=black&logo=adobe-photoshop&logoColor=31A8FF)](#)
 
----
 
 **Skill Set:**
 
