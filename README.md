@@ -5,19 +5,6 @@
 
 - 📫 Reach me at **youssef303m@gmail.com**
 
-## Selected Projects
-
-**BOB Premium TV App**  
-*September 2024*  
-*Working in:* [Mimocodes](https://mimocodes.com/)
-### Summary
-This project involved a complete redesign of the BOB Premium TV App to enhance user experience and functionality.
-### What I did
-- **Frontend Redesign:** Revamped the entire frontend of the BOB Premium TV App in collaboration with a UI/UX designer.
-- **Feature Enhancements:** Updated functionalities and added new features based on project needs and the latest vision.
-- **Responsive Design:** Ensured the app works well on all TV sizes by testing it on various real TVs from different brands and sizes.
-
-
 ## Languages and Tools
 
 ### Languages
@@ -62,6 +49,33 @@ This project involved a complete redesign of the BOB Premium TV App to enhance u
 - **Design Tools:** Figma, Adobe Photoshop
 - **Responsive Design**
 
+---
+
+## Selected Projects
+
+**BanknBox KYC Portal**  
+*Ongoing - 2024*  
+*Role:* Fullstack Developer @ [Mimocodes](https://mimocodes.com/)
+### Summary
+Contributing to the development of the BanknBox KYC Portal, a critical component of Bankbox's technology suite, that helps different banks manage their customers data.
+### Key Contributions
+- **Page Development:** Designed and developed the frontend of three key pages, ensuring a seamless user experience.
+- **Issue Resolution:** Proactively identified and resolved frontend issues, with a strong emphasis on accessibility and user inclusivity.
+- **Code Quality:** Maintained and improved code quality by implementing best practices, ensuring readability, reusability, and maintainability.
+
+<br /> <br/>
+
+**BOB Premium TV App**  
+*September 2024*  
+*Role:* Fullstack Developer @ [Mimocodes](https://mimocodes.com/)
+### Summary
+This project involved a complete redesign of the BOB Premium TV App to enhance user experience and functionality.
+### Key Contributions
+- **Frontend Redesign:** Revamped the entire frontend of the BOB Premium TV App in collaboration with a UI/UX designer.
+- **Feature Enhancements:** Updated functionalities and added new features based on project needs and the latest vision.
+- **Responsive Design:** Ensured the app works well on all TV sizes by testing it on various real TVs from different brands and sizes.
+
+---
 
 ## Business
 - :email: youssef303m@gmail.com
