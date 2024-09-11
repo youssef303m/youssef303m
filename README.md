@@ -52,6 +52,18 @@
 
 ## Selected Projects
 
+**Aman Merchant Dashboard**  
+*Ongoing - 2024*  
+*Role:* Fullstack Developer @ [Mimocodes](https://mimocodes.com/)
+### Summary
+Led the redevelopment for the frontend of merchant dashboard for Aman, one of Egypt's prominent companies, focusing on performance and accessibility improvements.
+### Key Contributions
+- **Frontend Redevelopment:** Overhauled the dashboard's frontend, improving overall performance and fixing design inconsistencies.
+- **Interactivity Enhancements:** Integrated animations to enhance interactivity while maintaining simplicity to avoid performance degradation.
+- **Code Quality Improvements:** Ensured the code was clean, maintainable, and scalable by implementing best practices in readability, usability, and maintainability.
+
+<br /> <br/>
+
 **BanknBox KYC Portal**  
 *Ongoing - 2024*  
 *Role:* Fullstack Developer @ [Mimocodes](https://mimocodes.com/)
