@@ -76,15 +76,15 @@ Contributing to the development of the BanknBox KYC Portal, a critical component
 
 <br /> <br/>
 
-**BOB Premium TV App**  
-*September 2024*  
+**IBO Media Player TV Apps**  
+*July 2024*  
 *Role:* Fullstack Developer @ [Mimocodes](https://mimocodes.com/)
 ### Summary
-This project involved a complete redesign of the BOB Premium TV App to enhance user experience and functionality.
+This project involved a complete redesign of several TV Apps to enhance user experience and functionality.
 ### Key Contributions
-- **Frontend Redesign:** Revamped the entire frontend of the BOB Premium TV App in collaboration with a UI/UX designer.
-- **Feature Enhancements:** Updated functionalities and added new features based on project needs and the latest vision.
-- **Responsive Design:** Ensured the app works well on all TV sizes by testing it on various real TVs from different brands and sizes.
+- **Frontend Redesign:** Revamped the entire frontend of the TV Apps in collaboration with a UI/UX designer.
+- **Feature Enhancements:** Updated functionalities and added new features based on projects needs and the latest vision.
+- **Responsive Design:** Ensured the apps work well on all TV sizes by testing it on various real TVs from different brands, models, and sizes.
 
 ---
 
