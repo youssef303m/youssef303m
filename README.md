@@ -53,7 +53,7 @@
 ## Selected Projects
 
 **Aman Merchant Dashboard**  
-*Ongoing - 2024*  
+*August 2024 - Ongoing*   
 *Role:* Fullstack Developer @ [Mimocodes](https://mimocodes.com/)
 ### Summary
 Led the redevelopment for the frontend of merchant dashboard for Aman, one of Egypt's prominent companies, focusing on performance and accessibility improvements.
@@ -65,7 +65,7 @@ Led the redevelopment for the frontend of merchant dashboard for Aman, one of Eg
 <br /> <br/>
 
 **BanknBox KYC Portal**  
-*Ongoing - 2024*  
+*August 2024 - Ongoing*  
 *Role:* Fullstack Developer @ [Mimocodes](https://mimocodes.com/)
 ### Summary
 Contributing to the development of the BanknBox KYC Portal, a critical component of Bankbox's technology suite, that helps different banks manage their customers data.
@@ -77,7 +77,7 @@ Contributing to the development of the BanknBox KYC Portal, a critical component
 <br /> <br/>
 
 **IBO Media Player TV Apps**  
-*July 2024*  
+*July 2024 - Ongoing*  
 *Role:* Fullstack Developer @ [Mimocodes](https://mimocodes.com/)
 ### Summary
 This project involved a complete redesign of several TV Apps to enhance user experience and functionality.
