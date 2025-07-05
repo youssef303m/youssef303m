@@ -28,7 +28,6 @@
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
 [![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#)
 
 ### Additional Skills
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
