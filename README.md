@@ -52,7 +52,7 @@
 ## Selected Projects
 
 **Aman Merchant Dashboard**  
-*August 2024 - Ongoing*   
+*August 2024 - September 2024*   
 *Role:* Fullstack Developer @ [Mimocodes](https://mimocodes.com/)
 ### Summary
 Led the redevelopment for the frontend of merchant dashboard for Aman, one of Egypt's prominent companies, focusing on performance and accessibility improvements.
@@ -64,7 +64,7 @@ Led the redevelopment for the frontend of merchant dashboard for Aman, one of Eg
 <br /> <br/>
 
 **BanknBox KYC Portal**  
-*August 2024 - Ongoing*  
+*August 2024 - September 2024*  
 *Role:* Fullstack Developer @ [Mimocodes](https://mimocodes.com/)
 ### Summary
 Contributing to the development of the BanknBox KYC Portal, a critical component of Bankbox's technology suite, that helps different banks manage their customers data.
@@ -81,9 +81,15 @@ Contributing to the development of the BanknBox KYC Portal, a critical component
 ### Summary
 This project involved a complete redesign of several TV Apps to enhance user experience and functionality.
 ### Key Contributions
-- **Frontend Redesign:** Revamped the entire frontend of the TV Apps in collaboration with a UI/UX designer.
-- **Feature Enhancements:** Updated functionalities and added new features based on projects needs and the latest vision.
-- **Responsive Design:** Ensured the apps work well on all TV sizes by testing it on various real TVs from different brands, models, and sizes.
+- **Cross-Platform Integration** Integrated the apps with multiple TV operating systems (including LG webOS, Samsung Tizen, and Android TV), ensuring seamless functionality and consistent performance across all platforms.
+- **Frontend Revamp:** Rebuilt legacy codebases using modern JavaScript standards, improving code maintainability and UI consistency.
+- **New Features & Interfaces:** Designed and implemented new user interfaces and features aligned with the latest product vision and user feedback.
+- **Performance Optimization:** Enhanced overall app performance by approximately 60% through code optimization, memory management, and asynchronous data handling improvements.
+- **Backend Collaboration:** Worked closely with backend developers to integrate new APIs and migrate to updated backend systems.
+- **Scalability & Stability:** Implemented robust caching and fallback mechanisms to ensure fast startup and reliable offline behavior.
+- **New App Development:** Built new apps from scratch following modern architecture patterns and optimized deployment workflows.
+- **Comprehensive Testing:** Tested apps on a wide range of real TV devices from different brands and screen sizes to guarantee a consistent and responsive experience.
+- **Built-in Proxy System:** Integrated a custom in-app proxy layer to handle playlist requests, enhance connectivity, and improve regional accessibility and streaming reliability.
 
 ---
 
